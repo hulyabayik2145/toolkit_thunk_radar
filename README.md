@@ -27,3 +27,7 @@ Bu proje, gerçek zamanlı uçuş bilgilerini gösteren bir uçuş radarı uygul
 <h3>Kullanılan Api</h3>
 
 - https://rapidapi.com/apidojo/api/flight-radar1
+
+<h3>Ekran Gif</h3>
+
+<video controls src="radar.mp4" title="Title"></video>
